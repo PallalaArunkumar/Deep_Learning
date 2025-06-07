@@ -1,2 +1,2 @@
 # Deep_Learning
-related codes documents
+I am trying to replicate the implementations of Deep learning layers/Networks.
